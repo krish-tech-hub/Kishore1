@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is not changed
 
+=======
+its 
+>>>>>>> 49139281ea9827b32ebf06fe15acb91cf328f5b1
